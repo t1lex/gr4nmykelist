@@ -1,1 +1,13 @@
+#EXTM3U
 
+#EXTINF:0,Telefe
+http://177.53.153.207:8000/play/a00o
+
+#EXTINF:0,El Trece
+http://177.53.153.207:8000/play/a00p
+
+#EXTINF:0,TNT Sports Premium Arg
+http://200.85.51.158:64333/play/a03c
+
+#EXTINF:0,ESPN Premium Arg
+http://200.85.51.158:64333/play/a02i
