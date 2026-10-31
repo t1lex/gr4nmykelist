@@ -18,15 +18,20 @@ http://200.85.51.158:64333/play/a02i
 #EXTINF:-1, LPF Play 1
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/87c924d1-7969-44c2-9ab8-c97d3ed5b830/b254e33e-4f51-4596-bd39-a19faa651888/1/streamPlaylist-live.m3u8
  
-#EXTINF:-1, LPF Play 2 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/9efc7771-aa5b-449c-885e-c027b360d088/0fc82036-265c-4b08-9e65-1e277175a318/1/streamPlaylist-live.m3u8
+#EXTINF:-1, LPF Play 2
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/9efc7771-aa5b-449c-885e-c027b360d088/0fc82036-265c-4b08-9e65-1e277175a318/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1, LPF Play 3 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/c73c3185-5912-4efc-8b52-68580fbd268b/a2d73a18-5fb2-45bd-8622-a364301b681b/1/streamPlaylist-live.m3u8
+#EXTINF:-1, LPF Play 3 m
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/c73c3185-5912-4efc-8b52-68580fbd268b/a2d73a18-5fb2-45bd-8622-a364301b681b/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1, LPF Play 4 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/bad04c7a-68bf-4370-8ba0-4275297430ae/57a1815d-4a24-4bbb-a47f-47bd37ebce0c/1/streamPlaylist-live.m3u8
+#EXTINF:-1, LPF Play 4
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/bad04c7a-68bf-4370-8ba0-4275297430ae/57a1815d-4a24-4bbb-a47f-47bd37ebce0c/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1,LPF Play 5 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/448bbcf7-92a6-4044-8c9b-b0d3eaff302b/f10aa885-2537-4d35-9ee3-4cfa8f1e8abc/1/streamPlaylist-live.m3u8
+#EXTINF:-1,LPF Play 5
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/448bbcf7-92a6-4044-8c9b-b0d3eaff302b/f10aa885-2537-4d35-9ee3-4cfa8f1e8abc/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1, LPF Play 6 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/319cca5d-5790-4a6c-842e-e8018f745729/95f47ae9-7bce-4fdc-ab9e-619f3fb9864b/1/streamPlaylist-live.m3u8
+#EXTINF:-1, LPF Play 6
+https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/319cca5d-5790-4a6c-842e-e8018f745729/95f47ae9-7bce-4fdc-ab9e-619f3fb9864b/1/streamPlaylist-live.m3u8
 
 #EXTINF:-1, LPF Play 7
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/87c924d1-7969-44c2-9ab8-c97d3ed5b830/b254e33e-4f51-4596-bd39-a19faa651888/1/streamPlaylist-live.m3u8
