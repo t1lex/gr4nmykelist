@@ -62,3 +62,66 @@ https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/87c92
 
 #EXTINF:-1, LPF Play 8
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/b985aa90-9bb1-416a-849c-f9d2c1e609fc/e287c12c-df8f-4ac2-84c1-104032023a4d/1/streamPlaylist-live.m3u8
+
+#EXTINF:-1, Eurosport 2 🇵🇹
+http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
+
+#EXTINF:-1, AXN Black 🇵🇹
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1, AXN White 🇵🇹
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+
+#EXTINF:-1, RTP 1 🇵🇹
+http://50.7.120.34:8080/RTP_1/index.m3u8
+
+#EXTINF:-1, RTP 2 🇵🇹
+http://50.7.120.34:8080/RTP_2/index.m3u8
+
+#EXTINF:-1, RTP 3 🇵🇹
+http://50.7.120.34:8080/RTP_3/index.m3u8
+
+#EXTINF:-1, RTP Memoria 🇵🇹
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+
+#EXTINF:-1, SIC Noticias 🇵🇹
+http://50.7.120.34:8080/SIC_NOTICIAS/index.m3u8
+
+#EXTINF:-1, SIC 🇵🇹
+http://50.7.120.34:8080/SIC/index.m3u8
+
+#EXTINF:-1, SIC Caras 🇵🇹
+http://50.7.120.34:8080/SIC_CARAS/index.m3u8
+
+#EXTINF:-1, SIC Mulher 🇵🇹
+http://50.7.120.34:8080/SIC_MULHER/index.m3u8
+
+#EXTINF:-1, SIC Radical 🇵🇹
+http://50.7.120.34:8080/SIC_RADICAL/index.m3u8
+
+#EXTINF:-1, TVI 🇵🇹
+http://50.7.120.34:8080/TVI/index.m3u8
+
+#EXTINF:-1, Cine mundo 🇵🇹
+http://50.7.120.34:8080/CINEMUNDO/index.m3u8
+
+#EXTINF:-1, Canal 11 🇵🇹
+http://50.7.120.34:8080/CANAL_11/index.m3u8
+
+#EXTINF:-1, Eurosport 🇵🇹
+http://50.7.120.34:8080/EUROSPORT/index.m3u8
+
+#EXTINF:-1, ST★R Channel 🇵🇹
+http://50.7.120.34:8080/FOX/index.m3u8
+
+#EXTINF:-1, ST★R comedy 🇵🇹
+http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
+
+#EXTINF:-1, ST★R movies 🇵🇹
+http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
+
+#EXTINF:-1, ST★R life 🇵🇹
+http://50.7.120.34:8080/FOX_LIFE/index.m3u8
+
+#EXTINF:-1, Porto canal 🇵🇹
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
