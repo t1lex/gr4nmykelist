@@ -27,7 +27,8 @@ http://181.66.249.246:8000/play/a0km/index.m3u8
 #EXTINF:-1, DSports Deco
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
-#EXTINF:-1, Dsports DGO http://38.252.208.34:40000/play/a0at
+#EXTINF:-1, Dsports DGO
+http://38.252.208.34:40000/play/a0at
 
 #EXTINF:-1, LPF Play 1
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/87c924d1-7969-44c2-9ab8-c97d3ed5b830/b254e33e-4f51-4596-bd39-a19faa651888/1/streamPlaylist-live.m3u8
