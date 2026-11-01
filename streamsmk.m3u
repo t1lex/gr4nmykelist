@@ -9,6 +9,24 @@ http://177.53.153.207:8000/play/a00o
 #EXTINF:-1,El Trece
 http://177.53.153.207:8000/play/a00p
 
+#EXTINF:-1, TN Todo Noticias
+http://138.59.227.20:8000/play/a097
+
+#EXTINF:-1, C5N
+http://138.59.227.20:8000/play/a05v
+
+#EXTINF:-1, A24
+http://138.59.227.20:8000/play/a05u
+
+#EXTINF:-1, La Nacion+
+http://138.59.227.20:8000/play/a05y
+
+#EXTINF:-1, Canal 26
+http://138.59.227.20:8000/play/a05x
+
+#EXTINF:-1, Cronica
+http://138.59.227.20:8000/play/a05w
+
 #EXTINF:-1, TL+
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
