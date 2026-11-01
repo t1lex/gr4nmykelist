@@ -210,7 +210,7 @@ http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TNT HD (ARG)
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 
-#EXTINF:-1, Discovery Science Latinoamerica Colombia/Peru(720p)
+#EXTINF:-1, Discovery Science Latinoamerica Colombia/Peru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 
 #EXTINF:-1, Eurosport 1 Spain (576p)
