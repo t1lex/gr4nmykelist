@@ -117,7 +117,7 @@ https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/87c92
 #EXTINF:-1, LPF Play 2
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/9efc7771-aa5b-449c-885e-c027b360d088/0fc82036-265c-4b08-9e65-1e277175a318/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1, LPF Play 3 m
+#EXTINF:-1, LPF Play 3
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/c73c3185-5912-4efc-8b52-68580fbd268b/a2d73a18-5fb2-45bd-8622-a364301b681b/1/streamPlaylist-live.m3u8
 
 #EXTINF:-1, LPF Play 4
@@ -197,3 +197,34 @@ http://50.7.120.34:8080/FOX_LIFE/index.m3u8
 
 #EXTINF:-1, Porto canal 🇵🇹
 http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+
+#EXTINF:-1, NET TV
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+
+#EXTINF:-1, Telefe Buenos Aires (NO DELAY)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+#EXTINF:-1, Tigo Sports (Paraguay)
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1, TNT HD (ARG)
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
+
+#EXTINF:-1, Discovery Science Latinoamerica Colombia/Peru(720p)
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+
+#EXTINF:-1, Eurosport 1 Spain (576p)
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
+#EXTINF:-1, Eurosport 2 Spain
+(1080p)
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1, Space
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+
+#EXTINF:-1, Tooncast Argentina (720p)
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+
+#EXTINF:-1, Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
