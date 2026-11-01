@@ -21,6 +21,18 @@ https://cdn.kift.live/live/nica/index.m3u8
 #EXTINF:-1,TNT Sports Premium Arg
 http://200.85.51.158:64333/play/a03c
 
+#EXTINF:-1, ESPN chile
+http://45.181.120.65:9087/play/a0kj
+
+#EXTINF:-1, ESPN sur
+http://38.3.176.165:15002/play/a0qu
+
+#EXTINF:-1, ESPN argentina
+http://138.59.227.20:8000/play/a099
+
+#EXTINF:-1, ESPN colombia
+http://181.205.205.170:8001/play/a0ua
+
 #EXTINF:-1,ESPN Premium Arg
 http://200.85.51.158:64333/play/a02i
 
