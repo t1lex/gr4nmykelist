@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Decodificador Sin Servicio Directv
+#EXTINF:-1, Decodificador Sin Servicio Directv
 http://138.59.227.20:8000/play/a0ft
 
 #EXTINF:-1, TELEFE INTERIOR 1080i 50fps
@@ -9,11 +9,17 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/yb00000004pgcoaan51zn2w74b
 #EXTINF:-1, EL TRECE SATELLITAL 720i 30fps
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
-#EXTINF:-1,Telefe
+#EXTINF:-1, Telefe
 http://177.53.153.207:8000/play/a00o
 
-#EXTINF:-1,El Trece
+#EXTINF:-1, El Trece
 http://177.53.153.207:8000/play/a00p
+
+#EXTINF:-1, El Trece
+http://138.59.227.20:8000/play/a07b
+
+#EXTINF:-1, El Nueve Buenos Aires
+http://138.59.227.20:8000/play/a08k
 
 #EXTINF:-1, TN Todo Noticias
 http://138.59.227.20:8000/play/a097
@@ -84,22 +90,22 @@ https://cdn.40mediagroup.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/tracks-
 #EXTINF:-1, Nica+
 https://cdn.kift.live/live/nica/index.m3u8
 
-#EXTINF:-1,TNT Sports Premium Arg
+#EXTINF:-1, TNT Sports Premium Arg
 http://200.85.51.158:64333/play/a03c
 
-#EXTINF:-1, ESPN chile
+#EXTINF:-1, ESPN Chile
 http://45.181.120.65:9087/play/a0kj
 
-#EXTINF:-1, ESPN sur
+#EXTINF:-1, ESPN Sur (Perú, Bolivia, Uruguay & Paraguay)
 http://38.3.176.165:15002/play/a0qu
 
-#EXTINF:-1, ESPN argentina
+#EXTINF:-1, ESPN Arg
 http://138.59.227.20:8000/play/a099
 
-#EXTINF:-1, ESPN colombia
+#EXTINF:-1, ESPN Colombia
 http://181.205.205.170:8001/play/a0ua
 
-#EXTINF:-1,ESPN Premium Arg
+#EXTINF:-1, ESPN Premium Arg
 http://200.85.51.158:64333/play/a02i
 
 #EXTINF:-1, ESPN Premium Arg (Opcion 2)
@@ -108,7 +114,7 @@ http://45.188.229.33:8000/play/a1di
 #EXTINF:-1, ESPN Premium Arg (Opcion 3)
 http://181.232.188.21:8282/play/a05e
 
-#EXTINF:-1, Directv Canal 100
+#EXTINF:-1, Dsports
 http://181.66.249.246:8000/play/a0km
 
 #EXTINF:-1, DSports Deco
@@ -129,7 +135,7 @@ https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/c73c3
 #EXTINF:-1, LPF Play 4
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/bad04c7a-68bf-4370-8ba0-4275297430ae/57a1815d-4a24-4bbb-a47f-47bd37ebce0c/1/streamPlaylist-live.m3u8
 
-#EXTINF:-1,LPF Play 5
+#EXTINF:-1, LPF Play 5
 https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/448bbcf7-92a6-4044-8c9b-b0d3eaff302b/f10aa885-2537-4d35-9ee3-4cfa8f1e8abc/1/streamPlaylist-live.m3u8
 
 #EXTINF:-1, LPF Play 6
@@ -207,13 +213,13 @@ http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:-1, NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
-#EXTINF:-1, Telefe Buenos Aires (NO DELAY)
+#EXTINF:-1, Telefe (NO DELAY)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1, Tigo Sports (Paraguay)
+#EXTINF:-1, Tigo Sports Paraguay
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1, TNT HD (ARG)
+#EXTINF:-1, TNT Arg
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 
 #EXTINF:-1, Discovery Science Latinoamerica Colombia/Peru (720p)
@@ -225,7 +231,7 @@ http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1, Eurosport 2 Spain
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 
-#EXTINF:-1, Space
+#EXTINF:-1, HTV
 http://45.134.141.161:2200/ARG/HTV/index.m3u8
 
 #EXTINF:-1, Tooncast Argentina (720p)
