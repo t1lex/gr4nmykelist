@@ -239,3 +239,15 @@ http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1, Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1, Canal 10 🇺🇾
+http://186.33.57.100:8000/play/a2li
+
+#EXTINF:-1, Canal 4 🇺🇾
+http://186.33.57.100:8000/play/a2s8
+
+#EXTINF:-1, DSports Uruguay
+http://186.33.57.100:8000/play/a2o3
+
+#EXTINF:-1, VTV Plus 🇺🇾
+http://186.33.57.100:8000/play/a1st
