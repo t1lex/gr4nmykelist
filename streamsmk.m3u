@@ -9,6 +9,12 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/yb00000004pgcoaan51zn2w74b
 #EXTINF:-1, EL TRECE SATELLITAL 720i 30fps
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
+#EXTINF:-1, Canal 8 Mar Del Plata
+https://canal8mdq.unpocodeawita.workers.dev/
+
+#EXTINF:-1, Canal 9 Resistencia
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
 #EXTINF:-1, Telefe
 http://177.53.153.207:8000/play/a00o
 
