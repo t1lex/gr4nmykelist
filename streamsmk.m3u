@@ -232,7 +232,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1, TNT Arg
-http://45.134.141.161:2200/ARG/TNT/index.m3u8
+http://138.121.113.213:8001/play/a06z
 
 #EXTINF:-1, Discovery Science Latinoamerica Colombia/Peru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
