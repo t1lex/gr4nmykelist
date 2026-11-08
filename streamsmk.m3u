@@ -181,6 +181,18 @@ http://186.33.57.100:8000/play/a2o3
 #EXTINF:-1, VTV Plus Uruguay
 http://186.33.57.100:8000/play/a1st
 
+#EXTINF:-1, HBO Este
+http://201.240.104.137:8000/play/hbO/index.m3u8
+
+#EXTINF:-1, HBO Oeste
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090656&extension=ts
+
+#EXTINF:-1, HBO Chile
+http://45.70.168.162:2052/play/a00w
+
+#EXTINF:-1, HBO Brasil
+http://srv.mypanel.life:8080/jju4420/NebeQ90Mp1/3915
+
 #EXTINF:-1, A&E
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
 
