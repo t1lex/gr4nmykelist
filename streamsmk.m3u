@@ -146,7 +146,13 @@ http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1, Tigo Sports (Paraguay)
-http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8 
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Tigo Sports PY (Opc 2)
+http://45.170.130.224:8000/play/a04r
+
+#EXTINF:-1, Tigo Sports PY (Opc 3)
+http://181.232.188.21:8282/play/a047
 
 #EXTINF:-1, TNT (Argentina)
 http://138.121.113.213:8001/play/a06z
