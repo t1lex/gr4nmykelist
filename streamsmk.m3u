@@ -90,7 +90,7 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.
 #EXTINF:-1, TL+
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-Stream de TL+ de un astra
+#EXTINF:-1, Stream de TL+ de un astra
 http://216.244.158.194:8000/play/a0v9
 
 #EXTINF:-1, TNT Sports Premium Arg
