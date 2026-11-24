@@ -99,6 +99,15 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, TNT Sports Premium Arg (2)
 http://181.209.37.74:8001/play/a06z/index.m3u8?token=miguel2026
 
+#EXTINF:-1, TNT Mexico
+http://38.59.135.250:8001/play/a0aq
+
+#EXTINF:-1, Space Mexico
+http://45.172.92.111:8000/play/a0cg
+
+#EXTINF:-1, FOX Mexico
+http://escuadronx.com:8080/66zKrn45ds/EWaFk099fg/817158
+
 #EXTINF:-1, Eurosport 1 (Spain) (576p)
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 
@@ -203,15 +212,6 @@ http://45.170.130.224:8000/play/a04r
 
 #EXTINF:-1, Tigo Sports PY (Opc 3)
 http://181.232.188.21:8282/play/a047
-
-#EXTINF:-1, TNT Mexico
-http://38.59.135.250:8001/play/a0aq
-
-#EXTINF:-1, Space Mexico
-http://45.172.92.111:8000/play/a0cg
-
-#EXTINF:-1, FOX Mexico
-http://escuadronx.com:8080/66zKrn45ds/EWaFk099fg/817158
 
 #EXTINF:-1, Fox One Mex
 http://escuadronx.com:8080/66zKrn45ds/EWaFk099fg/625613
